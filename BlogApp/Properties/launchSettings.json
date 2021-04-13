@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BlogApp": {
+      "commandName": "Project",
+      "commandLineArgs": "readsystem"
+    }
+  }
+}
